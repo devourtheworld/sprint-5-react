@@ -1,0 +1,1 @@
+localStorage.setItem('user', JSON.stringify({name: 'Tom', age: 25}));
